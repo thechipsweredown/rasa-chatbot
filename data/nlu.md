@@ -55,6 +55,8 @@
 - đm
 - đcm
 - đcmm
+- sủa
+- sủa lên
 - đmm
 - bot có người yêu chưa
 - người yêu bot là ai
@@ -98,6 +100,11 @@
 - ai làm ra bạn
 - ai viết ra mày
 - ai viết ra bạn
+- ai chất nhất team platform
+- ai chất nhất
+- thằng nào chất nhất
+- thằng nào hay sủa nhất
+- ai hay sủa
 
 ## intent:goodbye
 - bye
@@ -106,10 +113,10 @@
 - goodbye
 
 ## intent:ask_bot
-- Cho anh mua [đôi giầy](product_name)
-- Anh muốn mua [đôi tất](product_name)
-- Anh muốn mua [đôi vớ](product_name:đôi tất)
-
-## intent:feedback
-- Anh nhận được hàng rồi, sản phẩm chất lượng tốt
-- [đôi tất](product_name) này đẹp quá :)
+- Mở [google chrome](app_name)
+- Mở cho tao [google chrome](app_name)
+- open [google chrome](app_name)
+- open [firefox](app_name)
+- open [facebook](website)
+- mở [facebook](website)
+  
